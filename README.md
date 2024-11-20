@@ -5,4 +5,4 @@
 - ⚡ Fun fact: If you water water it grows.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moo-ahmad&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moo-ahmad&show_icons=true&theme=tokyonight&rank_icon=github)
