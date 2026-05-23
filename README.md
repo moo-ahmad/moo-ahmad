@@ -5,3 +5,17 @@ Building enterprise-grade software with .NET and modern cloud architecture. I sp
 - 🔧 **Core Stack** — C#, ASP.NET Core, Angular, SQL Server, Azure, Docker, RabbitMQ, SignalR
 - ☁️ **Infrastructure** — Azure-hosted services, containerized deployments, message-driven systems, and real-time communication layers
 - 🌱 **Currently Exploring** — Node.js + NestJS and Python + FastAPI to expand into AI-adjacent backend work
+
+## 🛠 Tech Stack
+
+![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+## 📫 Let's Connect
+
+[![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=safari&logoColor=white)](https://www.ahmadcode.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m00-ahmad)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/m00_ahmad)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadahmad399@gmail.com)
