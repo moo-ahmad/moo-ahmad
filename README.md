@@ -1,5 +1,5 @@
-# 👋 
- 
+# Hey, I'm Ahmad 👋
+
 Building enterprise-grade software with .NET and modern cloud architecture. I specialize in scalable backend systems, microservices, and full-stack solutions that ship clean and run reliably in production.
  
 - 🔧 **Core Stack** — C#, ASP.NET Core, Angular, SQL Server, Azure, Docker, RabbitMQ, SignalR
