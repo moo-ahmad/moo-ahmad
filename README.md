@@ -1,20 +1,20 @@
 # 👋 Mohammad Ahmad
 
-### Full Stack Developer | .NET Core | Angular | Azure Cloud
+### Senior Full Stack Engineer | .NET Core | Angular | Azure Cloud Architect
 
-Building scalable, enterprise-grade web applications with modern technologies. Passionate about clean architecture, cloud-native solutions, and delivering high-quality code.
+Designing and building scalable, enterprise-grade web applications with modern technologies. Specialized in clean architecture, microservices design, and cloud-native solutions. Mentoring teams and establishing best practices.
 
 ---
 
 ## 💼 About Me
 
-I'm a full-stack developer specializing in **Microsoft technologies** and **modern web frameworks**. I focus on building robust backend services with .NET Core and creating responsive, user-friendly interfaces with Angular. Currently expanding my expertise in **Azure Cloud** services.
+I'm a **Senior Full Stack Engineer** specializing in **Microsoft technologies** and **modern web frameworks**. I architect robust backend services with .NET Core, design responsive user experiences with Angular, and lead the adoption of **Azure Cloud** services and cloud-native patterns.
 
-- 🔭 **Currently working on:** .NET Core backend development and Angular frontend applications
-- 🌱 **Learning:** Microsoft Azure cloud services & cloud-native architecture patterns
-- 👯 **Open to collaboration:** C#, .NET Core, Angular, and full-stack web projects
-- 💬 **Let's talk about:** Clean architecture, SOLID principles, microservices, and best practices
-- ⚡ **Fun fact:** Debugging code at 3 AM with ☕ is my superpower
+- 🔭 **Currently architecting:** Enterprise .NET Core solutions and scalable Angular applications
+- 🌱 **Expanding expertise in:** Microsoft Azure cloud architecture & advanced microservices patterns
+- 👯 **Open to collaboration:** C#, .NET Core, Angular, and full-stack web projects at enterprise scale
+- 💬 **Let's talk about:** System architecture, clean code principles, SOLID design, microservices, and engineering best practices
+- ⚡ **Fun fact:** Debugging complex systems at 3 AM with ☕ is where I do my best thinking
 
 ---
 
@@ -22,20 +22,21 @@ I'm a full-stack developer specializing in **Microsoft technologies** and **mode
 
 ### Backend Development
 - **Languages:** C# (.NET Core, .NET Framework)
-- **Architecture:** Clean Architecture, SOLID Principles, Design Patterns
-- **Databases:** SQL Server, Entity Framework Core
-- **APIs:** RESTful APIs, ASP.NET Core
+- **Architecture:** Clean Architecture, SOLID Principles, Design Patterns, Microservices
+- **Databases:** SQL Server, Entity Framework Core, Database Design
+- **APIs:** RESTful APIs, ASP.NET Core, API Architecture
 
 ### Frontend Development
 - **Frameworks:** Angular
 - **Languages:** TypeScript, HTML5, CSS3
 - **Styling:** Bootstrap, Material Design
-- **Tools:** npm, Angular CLI
+- **Tools:** npm, Angular CLI, Performance Optimization
 
 ### Cloud & DevOps
-- **Cloud Platform:** Microsoft Azure
+- **Cloud Platform:** Microsoft Azure (App Services, Azure SQL, Azure Functions)
 - **Version Control:** Git, GitHub
-- **Deployment:** Cloud-based deployment & CI/CD concepts
+- **Deployment & CI/CD:** Cloud-based deployment pipelines, Infrastructure as Code
+- **Leadership:** Team mentoring, code reviews, architectural decisions
 
 ---
 
@@ -50,4 +51,4 @@ I'd love to hear from you! Whether you have a project in mind or just want to co
 
 ---
 
-**"Code is poetry written for humans, not machines. Let's build something amazing together!"** 💻
+**"Building exceptional software is about more than code—it's about solving problems elegantly and lifting others up along the way."** 💻
