@@ -13,7 +13,6 @@ I'm a **Senior Full Stack Engineer** specializing in **Microsoft technologies** 
 - 🔭 **Currently architecting:** Enterprise .NET Core solutions and scalable Angular applications
 - 🌱 **Expanding expertise in:** Microsoft Azure cloud architecture & advanced microservices patterns
 - 👯 **Open to collaboration:** C#, .NET Core, Angular, and full-stack web projects at enterprise scale
-- 💬 **Let's talk about:** System architecture, clean code principles, SOLID design, microservices, and engineering best practices
 - ⚡ **Fun fact:** Debugging complex systems at 3 AM with ☕ is where I do my best thinking
 
 ---
@@ -44,10 +43,9 @@ I'm a **Senior Full Stack Engineer** specializing in **Microsoft technologies** 
 
 I'd love to hear from you! Whether you have a project in mind or just want to connect:
 
-- 🐙 **GitHub:** [@moo-ahmad](https://github.com/moo-ahmad)
-- 💼 **LinkedIn:** [Connect with me](https://linkedin.com) *(add your LinkedIn URL)*
-- 📧 **Email:** contact@example.com *(add your email)*
-- 🌐 **Portfolio:** [Your Portfolio URL] *(if you have one)*
+- 💼 **LinkedIn:** [Connect with me](https://linkedin.comin/m00-ahmad)
+- 📧 **Email:** muhammadahmad399@gmail.com
+- 🌐 **Portfolio:** [https://www.ahmadcode.com](https://www.ahmadcode.com)
 
 ---
 
