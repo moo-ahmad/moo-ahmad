@@ -39,41 +39,6 @@ I'm a full-stack developer specializing in **Microsoft technologies** and **mode
 
 ---
 
-## 📂 Featured Projects
-
-### 🏨 [Stallions Hotel Booking System](https://github.com/moo-ahmad/Stallions.HotelBooking)
-**C# | .NET Core | Angular**
-- Full-stack hotel booking application with microservices architecture
-- Backend: RESTful API with clean architecture principles
-- Frontend: Modern Angular web client for seamless user experience
-- **Repository:** [Backend](https://github.com/moo-ahmad/Stallions.HotelBooking) | [Frontend](https://github.com/moo-ahmad/StallionsHotelBooking-WebClient)
-
-### 🏗️ [Clean Architecture Template](https://github.com/moo-ahmad/clean-architecture-template)
-**C# | .NET Core**
-- Production-ready boilerplate for .NET Core projects
-- Demonstrates best practices in software architecture
-- Ready to use for enterprise applications
-- **Repository:** [View Project](https://github.com/moo-ahmad/clean-architecture-template)
-
----
-
-## 📊 GitHub Stats
-
-```
-Languages: C#, TypeScript, Angular, .NET Core
-Main Focus: Full-Stack Development & Clean Architecture
-```
-
----
-
-## 🎯 What I'm Looking For
-
-- 🌟 **Freelance Projects:** Full-stack web development with .NET & Angular
-- 💼 **Full-Time Opportunities:** Backend/Full-Stack developer positions
-- 🤝 **Collaborations:** Open-source projects and mentoring opportunities
-
----
-
 ## 📫 Get In Touch
 
 I'd love to hear from you! Whether you have a project in mind or just want to connect:
@@ -82,14 +47,6 @@ I'd love to hear from you! Whether you have a project in mind or just want to co
 - 💼 **LinkedIn:** [Connect with me](https://linkedin.com) *(add your LinkedIn URL)*
 - 📧 **Email:** contact@example.com *(add your email)*
 - 🌐 **Portfolio:** [Your Portfolio URL] *(if you have one)*
-
----
-
-## ✨ Recent Activity
-
-- 🔧 Actively maintaining and improving Clean Architecture Template
-- 🚀 Exploring advanced Azure cloud services
-- 📚 Contributing to the developer community
 
 ---
 
