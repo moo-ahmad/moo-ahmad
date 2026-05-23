@@ -24,7 +24,7 @@ Building enterprise-grade software with .NET and modern cloud architecture. I sp
 
 ## 📫 Let's Connect
 
-[![Website](https://img.shields.io/badge/Website-0001?style=for-the-badge&logo=safari&logoColor=white)](https://www.ahmadcode.com)
+[![Website](https://img.shields.io/badge/ahmadcode.com-0A66F2?style=for-the-badge&logo=safari&logoColor=white)](https://www.ahmadcode.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m00-ahmad)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/m00_ahmad)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadahmad399@gmail.com)
